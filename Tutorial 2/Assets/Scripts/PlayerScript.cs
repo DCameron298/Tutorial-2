@@ -23,7 +23,7 @@ public class PlayerScript : MonoBehaviour
 
     // Update is called once per frame
     //When I change "Update" to "FixedUpdate" My player stops moving so I'm gonna keep it as Update to maintain functionality
-    void Update()
+    void FixedUpdate()
     {
        float hozMovement = Input.GetAxis ("Horizontal");
        float vertMovement = Input.GetAxis ("Vertical");

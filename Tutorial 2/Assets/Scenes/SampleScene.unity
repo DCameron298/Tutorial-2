@@ -2239,7 +2239,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a43e1f9661fd974489fbfbccc3d27bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1
+  speed: 20
   score: {fileID: 278556909}
 --- !u!50 &1995160758
 Rigidbody2D:
@@ -2256,7 +2256,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 2
+  m_GravityScale: 3
   m_Material: {fileID: 6200000, guid: 8c59f60b074e5224bb3e0683ed2d220d, type: 2}
   m_Interpolate: 0
   m_SleepingMode: 1
