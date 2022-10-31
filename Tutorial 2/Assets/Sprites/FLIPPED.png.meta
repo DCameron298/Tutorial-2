@@ -1,0 +1,1719 @@
+fileFormatVersion: 2
+guid: a983bf8573066d1479d20f145db32f94
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FLIPPED_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 716
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e78a5d20745964197f9e3975f57e14
+      internalID: 597164676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 716
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89594a7edbbc7214083be43efe2c8b80
+      internalID: -593980638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 716
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ca623e25ae5e145b215e6139468611
+      internalID: 1158875903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_3
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 716
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5052554ad9cd52344bc49549eea04942
+      internalID: 784662998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_4
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 716
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d631399ecee07947a994f8e36c77699
+      internalID: -234705749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_5
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 716
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784fdb1b261e689418f898d5462b0a2b
+      internalID: -369628432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_6
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 716
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c617b2136ad44a478eb2dc8fcf66f35
+      internalID: -1238739481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_7
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 716
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f8491556b782c4c94e9a9877a4ff5a
+      internalID: 721427614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_8
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 716
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d2473d62c5b644891d02c04c633064
+      internalID: 1601631640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_9
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 716
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f79e00fbae30545bd83d2da08d5caa
+      internalID: 2068129049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 616
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af6ea965c815674098f3a512267039a
+      internalID: 1866723414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_11
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 616
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e909f79a18b850d4dafa2129cca44024
+      internalID: -1274998862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_12
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 616
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccabc8f69e30f8e4b9c91648e199a592
+      internalID: -371457220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 616
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709a218dbbe281949958fa7331d5219a
+      internalID: 1762452150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_14
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 616
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2e68ae13e19274d84f003ed72a64e2
+      internalID: -1506441049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_15
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 616
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12966bb44eef47042998766de0eb4b1f
+      internalID: 1720841845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_16
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 616
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f4f091fba00c14483ed2f318276cc4
+      internalID: 1808857653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_17
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 616
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a50358533375f4e8556fc3ab655f80
+      internalID: 1805399203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_18
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 616
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e9aa515d8ac4a44a2440c7e4047bf2
+      internalID: 1671915709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_19
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 616
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd1a1b4115564c40846292df50f9be4
+      internalID: 1136407610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 504
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f03fa77e11bf394b90c714f5a4bde60
+      internalID: -996694029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 534
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520884a01fb64c9408c9739138ec42b7
+      internalID: -1529864941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_22
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 531
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb392ec5f35395a4abaf1581bd30f146
+      internalID: -1415924939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_23
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 525
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9c8f01ab4211d41a7ff0f38e9bda8e
+      internalID: -1196736005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_24
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 504
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad96bf2b367d5449a42d76619b36bff
+      internalID: 1734307183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_25
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 504
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbff4211b863114fb695fc087028637
+      internalID: -529615552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_26
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 516
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e09cf29504124844bc32783d63c10b7
+      internalID: -514509572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_27
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 516
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531c4373cb250814fb218c6563475054
+      internalID: 1279019816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_28
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 516
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1732714c3da9d9144b728792df0f9252
+      internalID: 8375751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_29
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 516
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fd9706de2d092498f62d882ac3c416
+      internalID: 571629151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_30
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 404
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33f9c33b7b083e4eae8a75df927577a
+      internalID: -111138562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 434
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f34ca526c71dc4985f527db726a4ba
+      internalID: -1202867300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_32
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 431
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7b208c546df024e904bea58f97988d
+      internalID: -1759230168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_33
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 425
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d885998ec18a39b4490111837b5a272c
+      internalID: 1300033238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_34
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 404
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d3a92ff87f6a6488b22c34886177df
+      internalID: 1187999309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_35
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 404
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a6c347625412e4392f3b6ced5e00ae
+      internalID: 1223235090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_36
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 434
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645166aab2cf3fd47ac19740e23535fc
+      internalID: -1786056800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_37
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 431
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa16492b25e41944a0a5423029dc493
+      internalID: -327481527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_38
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 425
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ec52f6a35898b4cb00aa441232d424
+      internalID: -32712900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_39
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 404
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44326a8b0e94215429d96f66319bb933
+      internalID: 1890513933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 313
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477cbef4f55d1934abb32a09522644ef
+      internalID: 132515876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 313
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7e23f1d75897c4ca8b69b0abaa763f
+      internalID: 166102065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_42
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 313
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eeaeeda718b5548b43bf2ece3b3bce
+      internalID: 1206012442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_43
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 316
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20b1d5c8b8ef8247bd5f5144685f831
+      internalID: -1325572250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_44
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 313
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067dee03685585e48b26df27a1a07eaa
+      internalID: -1249859452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_45
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 313
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7258d3d8ddb6f34a9fe7e9d5f69847f
+      internalID: 219247865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_46
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 334
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f94d2a7490e9449aca17c3237556fe
+      internalID: 724956514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_47
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 331
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84562067cf5d1ee45bce4c1f1e07adbf
+      internalID: -530421668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_48
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 325
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4cb2f08ae137b439a83e677177e25d
+      internalID: -1996962183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_49
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 304
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2a35844d0dba7499001d4d761fd957
+      internalID: -1266495424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_50
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 213
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d77be8280999244d9a1d837f7cc0210
+      internalID: -150788823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_51
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 216
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b686de1eb3b7d4d8cf1c8417d8aabf
+      internalID: 733818264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_52
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 213
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec354ce131f435d4db619cd3671651c8
+      internalID: 852178714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_53
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 213
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7623aede9a53a4f8bc4ca1c218a14b
+      internalID: -1695280507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_54
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 213
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9872884069a5e44b9e4373071394a64
+      internalID: -1357588790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_55
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 216
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fe9820831ee9c4f8c23f9f4ba27c09
+      internalID: 2119458670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_56
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 213
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a1bc31dfee70c41a8a47a229d12165
+      internalID: 455989939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_57
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 213
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec7a934d47244f4a904116310a8f90c
+      internalID: -739161162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 213
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2c75fe598968249b9faeb2d194501e
+      internalID: -1272188058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 216
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3874f5bc8367846ba6791fa8945406
+      internalID: 280778221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_60
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 116
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bed44d7c92401341be9d7565783c55b
+      internalID: -1505962346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_61
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 116
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ccaa9b7f4992e42b40ccf36d900ff0
+      internalID: 807288272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_62
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 116
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8806de1aa531d4593ba386df1d5ada
+      internalID: 508996202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_63
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 116
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7753c0ae8774de14ab021bd30a5a1f32
+      internalID: -1183343959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_64
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 116
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84ad3fcecc8ae34f8769300eee08f42
+      internalID: -465358668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_65
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 116
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6e3482970efb344a2e3da7cba5db49
+      internalID: -869103451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_66
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 116
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e870f8d40f5ab45b2268c9b10350f3
+      internalID: 1229859464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_67
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 116
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbcdd5f4bd597e47a24003ce0fc3933
+      internalID: -1036625818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_68
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 116
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fe4e64f099aa44691d9b169ad41e56
+      internalID: 1666653790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_69
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 116
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d843145e624f23b4186e253c097b6b10
+      internalID: -315720502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_70
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 16
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aaa6e2736246ff4a957b1854771b487
+      internalID: 1275128295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLIPPED_71
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 16
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2851b3ae21e0f3c48a2bae91810546a9
+      internalID: -894507176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FLIPPED_33: 1300033238
+      3: -1272188058
+      FLIPPED_44: -1249859452
+      FLIPPED_60: -1505962346
+      FLIPPED_29: 571629151
+      FLIPPED_7: 721427614
+      FLIPPED_54: -1357588790
+      FLIPPED_25: -529615552
+      FLIPPED_48: -1996962183
+      FLIPPED_16: 1808857653
+      FLIPPED_62: 508996202
+      FLIPPED_30: -111138562
+      FLIPPED_42: 1206012442
+      FLIPPED_19: 1136407610
+      FLIPPED_24: 1734307183
+      FLIPPED_49: -1266495424
+      FLIPPED_70: 1275128295
+      FLIPPED_56: 455989939
+      FLIPPED_43: -1325572250
+      FLIPPED_38: -32712900
+      FLIPPED_71: -894507176
+      FLIPPED_1: -593980638
+      FLIPPED_2: 1158875903
+      FLIPPED_63: -1183343959
+      FLIPPED_12: -371457220
+      FLIPPED_27: 1279019816
+      FLIPPED_10: 1866723414
+      FLIPPED_37: -327481527
+      FLIPPED_55: 2119458670
+      FLIPPED_50: -150788823
+      FLIPPED_14: -1506441049
+      FLIPPED_9: 2068129049
+      FLIPPED_51: 733818264
+      FLIPPED_5: -369628432
+      FLIPPED_18: 1671915709
+      FLIPPED_61: 807288272
+      FLIPPED_68: 1666653790
+      FLIPPED_31: -1202867300
+      FLIPPED_15: 1720841845
+      FLIPPED_65: -869103451
+      FLIPPED_47: -530421668
+      FLIPPED_67: -1036625818
+      FLIPPED_20: -996694029
+      FLIPPED_6: -1238739481
+      FLIPPED_69: -315720502
+      FLIPPED_21: -1529864941
+      FLIPPED_52: 852178714
+      FLIPPED_53: -1695280507
+      2: 166102065
+      FLIPPED_8: 1601631640
+      FLIPPED_23: -1196736005
+      FLIPPED_4: -234705749
+      FLIPPED_35: 1223235090
+      4: 280778221
+      FLIPPED_39: 1890513933
+      FLIPPED_45: 219247865
+      FLIPPED_26: -514509572
+      FLIPPED_11: -1274998862
+      FLIPPED_66: 1229859464
+      FLIPPED_32: -1759230168
+      FLIPPED_0: 597164676
+      FLIPPED_34: 1187999309
+      FLIPPED_22: -1415924939
+      FLIPPED_46: 724956514
+      FLIPPED_28: 8375751
+      1: 132515876
+      FLIPPED_3: 784662998
+      FLIPPED_57: -739161162
+      FLIPPED_13: 1762452150
+      FLIPPED_36: -1786056800
+      FLIPPED_64: -465358668
+      FLIPPED_17: 1805399203
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
